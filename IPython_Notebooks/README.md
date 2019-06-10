@@ -10,4 +10,4 @@
 
 
 
-PS: Incase the jupyter notebooks are not rendered on GitHub please post the jupyter notebook Url at nbviewer(https://nbviewer.jupyter.org) to view the noteboks properly
+PS: Incase the jupyter notebooks are not rendered on GitHub please post the jupyter notebook Url at nbviewer(https://nbviewer.jupyter.org) to view the notebooks properly
