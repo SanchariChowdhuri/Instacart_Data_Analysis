@@ -15,5 +15,12 @@ This folder contains ipython jupyter notebooks.
     3.Instacart-Logistic Regression and Testing.ipynb-Logistic Regression classifier is trained based on the training data and features obtained from "2.Instacart-feature_engineering and flat file creation.ipynb" . Finally, its tested on test data obtained from "testdata_flatfile.ipynb".
 
 ### Report and Presentation	
+This folder contains following files
+
+        1. Instacart Data Analysis_Presentation.pdf: Presentation containing findings and methodology used in analysing the dataset
+
+        2. Instacart Data Analysis_Report_SanchariChowdhuri.pdf : Report containing details of findings, approach and methodology used tfor feature Engineering and finally training and testing the model
 ### html_version_of _ipython_notebooks
+
+        These are html version of the ipython notebooks uploaded in folder "Instacart_Data_Analysis/IPython_Notebooks/".
 
