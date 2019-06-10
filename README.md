@@ -24,3 +24,5 @@ This folder contains following files
 
         These are html version of the ipython notebooks uploaded in folder "Instacart_Data_Analysis/IPython_Notebooks/".
 
+
+#### Alternatively this repo can be viewd at "https://nbviewer.jupyter.org/github/SanchariChowdhuri/Instacart_Data_Analysis/tree/master/"
