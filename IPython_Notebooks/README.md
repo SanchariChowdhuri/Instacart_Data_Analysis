@@ -6,7 +6,7 @@
 
 **testdata_flatfile.ipynb**- The test dataset in "order_products__test_cap.csv" contains order id and associated products in the order. To predict which product, the test users would currently order, the model would need these test user's previous order histories. The model would need these test users based user features, product features and user-product features.
 
-**3.Instacart-Logistic Regression and Testing.ipynb**-Logistic Regression classifier is trained based on the training data and features obtained from "*2.Instacart-feature_engineering and flat file creation.ipynb*" . Finally, its tested on test data obtained from "*testdata_flatfile.ipynb*".
+**3.Instacart-LogisticRegression_RandomForest_Testing_FeatureSelection.ipynb**-Logistic Regression classifier and Random Forest Classifier is trained based on the training data and features obtained from "*2.Instacart-feature_engineering and flat file creation.ipynb*" . Finally, its tested on test data obtained from "*testdata_flatfile.ipynb*".Next feature selection is done.
 
 
 
